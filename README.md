@@ -20,4 +20,4 @@ Linux 运维工程师，关注服务稳定性与自动化。日常和 Nginx、Do
 ## 联系我
 
 - 邮箱：Ricardorich33@users.noreply.github.com
-- 博客：https://blog.csdn.net/cala_?
+- 博客：https://blog.csdn.net/cala_?type=blog
