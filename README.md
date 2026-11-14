@@ -1,4 +1,4 @@
-# Hi, I'm 李朝阳
+# Hi, I'm ChaoYang
 
 Linux 运维工程师，关注服务稳定性与自动化。日常和 Nginx、Docker、Redis、MySQL、Prometheus/Grafana、Zabbix 打交道。
 
