@@ -19,7 +19,7 @@
 ### 运维工具
 
 - [ops-scripts](https://github.com/Ricardorich33/ops-scripts)：服务健康检查、容器状态、MySQL/Redis 备份、日志清理等日常脚本
-- [server-init](https://github.com/Ricardorich33/server-init)：新服务器初始化与 SSH、内核参数安全加固
+- [server-init](https://github.com/Ricardorich33/server-init)：新服务初始化与 SSH、内核参数安全加固
 - [ansible-playbooks](https://github.com/Ricardorich33/ansible-playbooks)：主机初始化、Nginx 和 Docker 的自动化部署
 
 ### 稳定性与可观测性
@@ -43,6 +43,6 @@
 ## 联系
 
 - GitHub：[@Ricardorich33](https://github.com/Ricardorich33)
-- Email：Ricardorich33@users.noreply.github.com
+- Email：richycala@163.com
 
 欢迎交流 Linux 运维、监控告警和自动化。
