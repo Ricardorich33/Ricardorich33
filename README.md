@@ -1,6 +1,7 @@
 **Linux 运维工程师** · 高可用 / 容器化 / 可观测性
 
-我主要做 Linux 业务系统的接入层和基础环境：用 Nginx + Keepalived 保证入口稳定，用 Docker 负责服务部署与发布，用 Prometheus/Grafana、Zabbix 关注系统和服务状态。比起把组件跑起来，我更关心它能不能长期稳定地支撑业务。
+我目前主要做 Linux 业务系统的接入层和基础环境：用 Nginx + Keepalived 保证入口稳定，用 Docker 负责服务部署与发布，用 Prometheus/Grafana、Zabbix 关注系统和服务状态。
+比起把组件跑起来，我更关心它能不能长期稳定地支撑业务。
 
 最近在把日常运维中的脚本、配置和排查笔记整理成可复用的项目。
 
